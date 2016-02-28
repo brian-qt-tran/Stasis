@@ -1,0 +1,2 @@
+# Stasis
+2D arcade-style game in which the player shoots chips at stick figures moving about the screen. When a stick figure is hit, it stops in place for a few seconds before continuing to move about the screen (at a faster pace). The player can only fire one chip at a time (using the spacebar) and can only move side-to-side. If a stick figure hits the player (represented as a chip bag) the game ends.
